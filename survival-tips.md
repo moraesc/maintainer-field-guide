@@ -76,3 +76,11 @@ Trust is earned through consistent, quality contributions over time.
 ---
 
 *Remember: maintaining open source is a marathon, not a sprint. Pace yourself accordingly.* 🏃
+
+---
+
+## Tip #7: Create a Review Schedule
+
+Having a regular schedule for when you review contributions can help manage expectations. Set aside specific times during the week for reviewing PRs and issues. Let your community know when you'll be available. This helps both you and your contributors know when to expect feedback.
+
+For example, you might review PRs every Tuesday and Thursday evening. Communicating this schedule in your project documentation helps contributors understand when they'll hear back from you.
