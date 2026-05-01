@@ -41,7 +41,7 @@ Every species entry must include:
 
 ## Code of Conduct
 
-Be excellent to each other. This is a humor project, but humor should never come at someone's expense.
+Be excellent to each other. See our [Code of Conduct](CODE_OF_CONDUCT.md). This is a humor project, but humor should never come at someone's expense.
 
 ---
 
