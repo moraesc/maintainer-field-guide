@@ -31,17 +31,17 @@ A good labeling system is the difference between a navigable trail and a dense j
 
 ---
 
-## Tip #3: The Art of Saying No
+## Tip #3: Automate the Boring Parts
 
-Saying "no" is a maintainer superpower. A polite, clear rejection with explanation is infinitely better than silence. Templates help:
+Letting bots handle repetitive tasks is a maintainer superpower. A polite, clear rejection with explanation is infinitely better than silence. Templates help:
 
 > *"Thank you for this contribution! This doesn't align with the project's current direction because [reason]. I'm going to close this PR, but I appreciate you taking the time."*
 
 ---
 
-## Tip #4: Automate the Boring Parts
+## Tip #4: The Art of Saying No
 
-Let bots handle the repetitive stuff:
+Saying "no" clearly and kindly is essential:
 - Auto-label PRs based on files changed
 - Run linters and tests automatically
 - Auto-close issues missing required information
