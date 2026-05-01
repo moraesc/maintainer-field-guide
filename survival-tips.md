@@ -76,3 +76,13 @@ Trust is earned through consistent, quality contributions over time.
 ---
 
 *Remember: maintaining open source is a marathon, not a sprint. Pace yourself accordingly.* 🏃
+
+---
+
+## Tip #7: Set Office Hours
+
+Designate specific times when you're available for reviews and triage. Communicate them in your README or CONTRIBUTING.md:
+
+> *"I review PRs on Tuesday and Thursday evenings (UTC-5). If your PR is urgent, please label it `priority`."*
+
+This sets expectations, reduces guilt about delayed responses, and gives you permission to ignore notifications outside those windows. Contributors are surprisingly understanding when they know when to expect a response.
