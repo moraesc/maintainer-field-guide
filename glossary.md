@@ -92,7 +92,7 @@ A comprehensive lexicon for navigating the linguistic landscape of open source.
 
 **Yak Shaving** — The process of performing a series of increasingly tangential tasks to accomplish the original goal. "I needed to fix a bug, which required updating a dependency, which required upgrading Node, which required installing a new version of macOS..."
 
-**YAGNI** — "You Ain't Gonna Need It." A design principle that says don't build features until they're actually needed. Universally acknowledged, rarely followed.
+**YAGNI** — "You Ain't Gonna Need It." A design principle that says don't build features until they're actually needed. Universally acknowledged, rarely practiced.
 
 ---
 
