@@ -45,16 +45,16 @@ Understanding these species is the first step toward a healthier repository habi
 Open source repositories contain several distinct biomes:
 
 ### The Issue Wilderness
-A sprawling, often untamed landscape where bug reports roam free and feature requests multiply unchecked. Navigation requires a machete and strong opinions about labeling taxonomies.
+A vast, sprawling, and frequently untamed landscape where bug reports roam free and feature requests multiply unchecked. Effective navigation of this space requires a machete and strong opinions about labeling taxonomies.
 
 ### The Pull Request Reef
 A vibrant but fragile ecosystem. Healthy reefs show diverse, well-formed contributions. Degraded reefs are choked with drive-by PRs that smother the native coral.
 
 ### The Discussion Savanna
-Wide open spaces for conversation. Herds of opinions migrate across threads. Occasionally, a flame war erupts like a brushfire, scorching everything in its path.
+Expansive, wide open spaces dedicated to facilitating meaningful conversation. Herds of opinions migrate across threads. Occasionally, a flame war erupts like a brushfire, scorching everything in its path.
 
 ### The Wiki Ruins
-Once-magnificent structures, now mostly abandoned. Occasionally, a lone explorer updates a page, only to find their changes overwritten by a bot three days later.
+Previously magnificent and awe-inspiring structures, now mostly abandoned. Occasionally, a lone explorer updates a page, only to find their changes overwritten by a bot three days later.
 
 ### The Actions Pipeline
 A subterranean network of automated tunnels. When functioning, it's a marvel of engineering. When broken, it's a nightmare of YAML indentation errors and cryptic exit codes.
