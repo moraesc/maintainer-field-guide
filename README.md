@@ -80,6 +80,7 @@ Essential guidance for maintainers navigating the wild. See [survival-tips.md](s
 - Set contribution guidelines *before* your repo trends on Hacker News
 - A well-written `CONTRIBUTING.md` is worth a thousand closed PRs
 - Remember: you can always step away from the keyboard
+- Also link a PR to an existing issue
 
 ---
 
